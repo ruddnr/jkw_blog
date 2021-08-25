@@ -7,6 +7,9 @@ pygmentsStyle: trac
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
+googleAnalytics: "G-1RH9QXT5LL"
+disqusShortname: ""
+
 Params:
   comments: yes
   commit: no
