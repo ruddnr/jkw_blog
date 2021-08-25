@@ -8,7 +8,7 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 googleAnalytics: "G-1RH9QXT5LL"
-disqusShortname: ""
+disqusShortname: "shinewook"
 
 Params:
   comments: yes
