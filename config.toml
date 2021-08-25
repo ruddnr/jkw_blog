@@ -1,0 +1,52 @@
+baseurl = "https://shinewook.netlify.app/"
+DefaultContentLanguage = "en"
+title = "ShineWook's Archive"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = "yes"
+pygmentsCodeFences = "yes"
+pygmentsCodefencesGuessSyntax = "yes"
+googleAnalytics = "G-6BBT85S8MN"
+disqusShortname = "shinewook"
+
+[Params]
+comments = "yes"
+commit = "no"
+dateFormat = "January 2, 2006"
+delayDisqus = "yes"
+favicon = "img/favicon.ico"
+logo = "img/avatar-icon.png"
+mainSections = [ "post", "posts" ]
+readingTime = "yes"
+rss = "yes"
+showRelatedPosts = "yes"
+socialShare = "yes"
+subtitle = "게으름뱅이의 지식저장소"
+useHLJS = "yes"
+wordCount = "yes"
+
+[Author]
+email = "jkw5779@gmail.com"
+github = "ruddnr"
+linkedin = "kyungwook-chang-9a9648128"
+
+[[menu.main]]
+name = "Blog"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "page/about/"
+weight = 3
+
+[[menu.main]]
+identifier = "Post"
+name = "Post"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "tags"
+weight = 4
